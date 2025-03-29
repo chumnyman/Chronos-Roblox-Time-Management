@@ -18,7 +18,7 @@ This library features 5 tool modules:
 Simply navigate to the 'Release' page and download the .RBXM file. Make sure it is the release tagged with 'Latest Release'.
 
 **Method 2:** Roblox:
-In Roblox Marketplace, you can directly import the Chronos framework into your game. [Coming Soon]
+In Roblox Marketplace, you can directly import the Chronos framework into your game: [Chronos | Marketplace](https://create.roblox.com/store/asset/107231765974752/Chronos-Time-Manager)
 
 **Method 3:** Wally:
 For Wally Package manager users [Coming Soon]
