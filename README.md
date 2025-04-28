@@ -35,7 +35,7 @@ local dt = Chronos.DateTime() -- Current time
 local custom = Chronos.CreateDateTime(2025, 3, 26, 12, 0, 0) -- Specific time
 
 -- Calculate time differences
-local difference = Chronos.Core.timeDifferenceInSeconds(dt, custom)
+local difference = Chronos.Core.timeDifferenceInUnits(dt, custom, "seconds")
 ```
 ### **Timer Module**
 For when you need to countdown or up
